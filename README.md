@@ -58,8 +58,8 @@ JSON Output Format
 
 Customizable Parameters
 
-    Embedding Model: Change the embedding model used by modifying the model_name parameter in the HuggingFaceEmbeddings.
+Embedding Model: Change the embedding model used by modifying the model_name parameter in the HuggingFaceEmbeddings.
 
-    LLM: Change the language model for question answering by updating the repo_id in the HuggingFaceHub initialization.
+LLM: Change the language model for question answering by updating the repo_id in the HuggingFaceHub initialization.
 
-    Text Split Sizes: Adjust chunk size and overlap by modifying the chunk_size and chunk_overlap parameters in text_splits() function.
+Text Split Sizes: Adjust chunk size and overlap by modifying the chunk_size and chunk_overlap parameters in text_splits() function.
