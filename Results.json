@@ -1,0 +1,1363 @@
+{
+    "tables": [],
+    "classification": [
+        {
+            "originalFileName": "0116.pdf",
+            "title": "Janus-faced handwritten signature attack: a clash between a handwritten Signature Duplicator and a writer independent, Metric Meta-Learning Offline Signature Verifier",
+            "authors": [
+                "- Alexios Giazitzis1[0009 \u22120009\u22120467\u22120005]"
+            ]
+        },
+        {
+            "originalFileName": "0079.pdf",
+            "title": "Font Impression Estimation in the Wild",
+            "authors": [
+                "Kazuki Kitajima",
+                "Daichi Haraguchi",
+                "Seiichi Uchida"
+            ]
+        },
+        {
+            "originalFileName": "0100.pdf",
+            "title": "Recurrent Few-Shot model for Document Verification",
+            "authors": [
+                "[\"Maxime Talarmain\"",
+                "\"Carlos Boned\"",
+                "\"Sanket Biswas\"",
+                "\"Oriol Ramos Terrades\"]"
+            ]
+        },
+        {
+            "originalFileName": "0158.pdf",
+            "title": "Vision Transformer with Encoder and Decoder network (ViT-ED) for image similarity estimation",
+            "authors": [
+                "- Manh Tu VU"
+            ]
+        },
+        {
+            "originalFileName": "0078.pdf",
+            "title": "Test Time Augmentation as a Defense Against Adversarial Attacks on Online Handwriting",
+            "authors": [
+                "Yoh Yamashita",
+                "Brian Kenji Iwana"
+            ]
+        },
+        {
+            "originalFileName": "0204.pdf",
+            "title": "Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification",
+            "authors": [
+                "- Sankalp Sinha"
+            ]
+        },
+        {
+            "originalFileName": "0120.pdf",
+            "title": "DocXplain: A Novel Model-Agnostic Explainability Method for Document Image Classi\ufb01cation",
+            "authors": [
+                "- Saifullah Saifullah"
+            ]
+        },
+        {
+            "originalFileName": "0109.pdf",
+            "title": "On Image Processing and Pattern Recognition for Thermograms of Watermarks in Manuscripts \u2013 A First Proof-of-Concept",
+            "authors": [
+                "- Dominik Hauser"
+            ]
+        },
+        {
+            "originalFileName": "0182.pdf",
+            "title": "From Handwriting Analysis to Alzheimer\u2019s Disease Prediction: An Experimental Comparison of Classifier Combination Methods",
+            "authors": [
+                "[\"Tiziana D\u2019Alessandro\"",
+                "\"Claudio De Stefano\"",
+                "\"Francesco Fontanella\"",
+                "\"Emanuele Nardone\"",
+                "\"Cesare Davide Pace\"]"
+            ]
+        },
+        {
+            "originalFileName": "0167.pdf",
+            "title": "Deepfake In-air Signature Verification via Two-channel Model",
+            "authors": [
+                "- Hao Yu"
+            ]
+        },
+        {
+            "originalFileName": "0094.pdf",
+            "title": "Multimodal Adaptive Inference for Document Image Classification with Anytime Early Exiting",
+            "authors": [
+                "[\"Omar Hamed\"",
+                "\"Souhail Bakkali\"",
+                "\"Matthew Blaschko\"",
+                "\"Sien Moens\"",
+                "\"Jordy Van Landeghem\"]"
+            ]
+        },
+        {
+            "originalFileName": "0064.pdf",
+            "title": "Learning to Kern: Set-wise Estimation of Optimal Letter Space",
+            "authors": [
+                "Kei Nakatsuru and Seiichi Uchida"
+            ]
+        },
+        {
+            "originalFileName": "0117.pdf",
+            "title": "Robust Handwritten Signature Representation with Continual Learning of Synthetic Data over Predefined Real Feature Space",
+            "authors": [
+                "- Talles B. Viana"
+            ]
+        },
+        {
+            "originalFileName": "0146.pdf",
+            "title": "Deep Metric Learning with Cross-Writer Attention for Offline Signature Verification",
+            "authors": [
+                "- Lu-Rong Ling"
+            ]
+        },
+        {
+            "originalFileName": "0047.pdf",
+            "title": "Weakly Supervised Training for Hologram Verification in Identity Documents",
+            "authors": [
+                "- Glen Pouliquen1,2"
+            ]
+        },
+        {
+            "originalFileName": "0112.pdf",
+            "title": "Improving Retrieval-Based Dialogue Systems: Fine-grained Post-training Prompt Adaptation and Pairwise Optimization Fine-tuning Strategy",
+            "authors": [
+                "Tianqing Zhang",
+                "Alimjan Aysa",
+                "Li Zhao",
+                "Kurban Ubul",
+                "Enguang zuo"
+            ]
+        },
+        {
+            "originalFileName": "0105.pdf",
+            "title": "Machine Unlearning for Document Classification",
+            "authors": [
+                "Lei Kang",
+                "Mohamed Ali Souibgui",
+                "Fei Yang",
+                "Lluis Gomez",
+                "Ernest Valveny",
+                "Dimosthenis Karatzas"
+            ]
+        }
+    ],
+    "keyInformationExtraction": [
+        {
+            "originalFileName": "0155.pdf",
+            "title": "End-to-end information extraction in handwritten documents: Understanding Paris marriage records from 1880 to 1940",
+            "authors": [
+                "[\"Thomas CONSTUM\"",
+                "\"Lucas PREEL\"",
+                "\"Th\u00b4 eo LARCHER\"",
+                "\"Thierry PAQUET\"",
+                "\"Pierrick TRANOUEZ\"",
+                "\"Sandra BREE\"]"
+            ]
+        },
+        {
+            "originalFileName": "0045.pdf",
+            "title": "UniVIE: A Unified Label Space Approach to Visual Information Extraction from Form-like Documents",
+            "authors": [
+                "Kai Hu",
+                "Jiawei Wang",
+                "Weihong Lin",
+                "Zhuoyao Zhong",
+                "Lei Sun",
+                "Qiang Huo"
+            ]
+        },
+        {
+            "originalFileName": "0097.pdf",
+            "title": "Information Extraction processes in handwritten documents tend to rely on obtaining an automatic transcription and performing Named Entity Recognition (NER) over such transcription. For this reason, in publicly available datasets, the performance of the systems is usually evaluated with metrics particular to each dataset. Moreover, most of the metrics employed are sensitive to reading order errors. Therefore, they do not reflect the expected final application of the system and introduce biases in more complex documents. In this paper, we propose and publicly release a set of reading order independent metrics tailored to Information Extraction evaluation in handwritten documents. Authors: [\"David Villanova-Aparisi\", \"Sol` ene Tarride\", \"Carlos-D. Mart\u00b4 \u0131nez-Hinarejos\", \"Ver\u00b4 onica Romero\", \"Christopher Kermorvant\", \"Mois\u00b4 es Pastor-Gadea\"] Category: Key Information Extraction",
+            "authors": [
+                "[\"David Villanova-Aparisi\"",
+                "\"Sol` ene Tarride\"",
+                "\"Carlos-D. Mart\u00b4 \u0131nez-Hinarejos\"",
+                "\"Ver\u00b4 onica Romero\"",
+                "\"Christopher Kermorvant\"",
+                "\"Mois\u00b4 es Pastor-Gadea\"] Category: Key Information Extraction"
+            ]
+        },
+        {
+            "originalFileName": "0071.pdf",
+            "title": "Deep Learning-Driven Innovative Model for Generating Functional Knowledge Units",
+            "authors": [
+                "Pan Qiangang",
+                "Hu Yahong",
+                "Xie Youbai",
+                "Meng Xianghui",
+                "Zhang Yilun"
+            ]
+        },
+        {
+            "originalFileName": "0215.pdf",
+            "title": "Information Extraction from Visually Rich Documents using Directed Weighted Graph Neural Network",
+            "authors": [
+                "- Hamza Gbada"
+            ]
+        },
+        {
+            "originalFileName": "0153.pdf",
+            "title": "EntityLayout: Entity-level Pre-training Language Model for Semantic Entity Recognition and Relation Extraction",
+            "authors": [
+                "- Chun-Bo Xu"
+            ]
+        },
+        {
+            "originalFileName": "0046.pdf",
+            "title": "The Socface Project: Large-Scale Collection, Processing, and Analysis of a Century of French Censuses",
+            "authors": [
+                "- M\u00e9lodie Boillet"
+            ]
+        }
+    ],
+    "opticalCharacterRecognition": [],
+    "datasets": [
+        {
+            "originalFileName": "0111.pdf",
+            "title": "Automatically Extracting the Geometric Content from Historical Astronomical Diagrams",
+            "authors": [
+                "[Syrine Kalleli",
+                "Scott Trigg",
+                "S\u00e9gol\u00e8ne Albouy",
+                "Matthieu Husson",
+                "Mathieu Aubry]"
+            ]
+        },
+        {
+            "originalFileName": "0180.pdf",
+            "title": "BRESSAY: A Brazilian Portuguese Dataset for Offline Handwritten Text Recognition",
+            "authors": [
+                "- Arthur F. S. Neto"
+            ]
+        },
+        {
+            "originalFileName": "0285.pdf",
+            "title": "StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation",
+            "authors": [
+                "- Nauman Riaz"
+            ]
+        },
+        {
+            "originalFileName": "0018.pdf",
+            "title": "A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams",
+            "authors": [
+                "Laura Jamieson",
+                "Carlos Francisco Moreno-Garc\u00b4 \u0131a",
+                "Eyad Elyan"
+            ]
+        },
+        {
+            "originalFileName": "0036.pdf",
+            "title": "Historical Handwritten Dataset for Ethiopic OCR with Baseline Models and Human-level Performance",
+            "authors": [
+                "- Birhanu Hailu Belay"
+            ]
+        },
+        {
+            "originalFileName": "0177.pdf",
+            "title": "The First Swahili Language Scene Text Detection and Recognition Dataset",
+            "authors": [
+                "[\"Fadila Wendigoundi Douamba\"",
+                "\"Jianjun Song\"",
+                "\"Ling Fu\"",
+                "\"Yuliang Liu\"",
+                "\"Xiang Bai\"]"
+            ]
+        },
+        {
+            "originalFileName": "0244.pdf",
+            "title": "Document Element Layer Integration Ensemble 8K: A Synthetic Data Pipeline for the Semantic Segmentation of Historical Documents",
+            "authors": [
+                "Taylor Archibald",
+                "Tony Martinez"
+            ]
+        },
+        {
+            "originalFileName": "0170.pdf",
+            "title": "SlideCraft: Synthetic Slides Generation for Robust Slide Analysis",
+            "authors": [
+                "- Travis Seng"
+            ]
+        },
+        {
+            "originalFileName": "0274.pdf",
+            "title": "Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering",
+            "authors": [
+                "Hiba Maryam",
+                "Ling Fu",
+                "Jiajun Song",
+                "Tajrian ABM Shafayet",
+                "Qidi Luo",
+                "Xiang Bai",
+                "Yuliang Liu"
+            ]
+        },
+        {
+            "originalFileName": "0121.pdf",
+            "title": "HistNERo: Historical Named Entity Recognition for the Romanian Language",
+            "authors": [
+                "[\"Andrei-Marius Avram\"",
+                "\"Andreea Iuga\"",
+                "\"George-Vlad Manolache\"",
+                "\"Vlad-Cristian Matei\"",
+                "\"R\u0103zvan-Gabriel Micliu\u015f\"",
+                "\"Vlad-Andrei Muntean\"",
+                "\"Manuel-Petru Sorlescu\"",
+                "\"Dragos\"",
+                "\"Dumitru-Clementin Cercel\"",
+                "\"Adrian-Dinu Urse\"",
+                "\"Vasile P\u0103is\"]"
+            ]
+        },
+        {
+            "originalFileName": "0201.pdf",
+            "title": "KVP10k : A Comprehensive Dataset for Key-Value Pair Extraction in Business Documents",
+            "authors": [
+                "Oshri Naparstek",
+                "Ophir Azulai",
+                "Inbar Shapira",
+                "Elad Amrani",
+                "Yevgeny Yaroker",
+                "Yevgeny Burshtein",
+                "Roi Pony",
+                "Nadav Rubinstein",
+                "Foad Abo Dahood",
+                "Orit Prince",
+                "Idan Friedman",
+                "Christoph Auer",
+                "Nikolaos Livathinos",
+                "Maksym Lysak",
+                "Ahmed Nassar",
+                "Peter Staar",
+                "and Udi Barzelay"
+            ]
+        },
+        {
+            "originalFileName": "0032.pdf",
+            "title": "Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks",
+            "authors": [
+                "[\"Omar Moured\"",
+                "\"Jiaming Zhang\"",
+                "\"M. Saquib Sarfraz\"",
+                "\"Rainer Stiefelhagen\"]"
+            ]
+        },
+        {
+            "originalFileName": "0173.pdf",
+            "title": "Historical Printed Ornaments: Dataset and Tasks",
+            "authors": [
+                "[Sayan Kumar Chaki",
+                "Zeynep Sonat Baltaci",
+                "Elliot Vincent",
+                "Remi Emonet",
+                "Fabienne Vial-Bonacci",
+                "Christelle Bahier-Porte",
+                "Mathieu Aubry",
+                "Thierry Fournel]"
+            ]
+        },
+        {
+            "originalFileName": "0098.pdf",
+            "title": "Controllable Text Layout Generation For Synthesizing Scene Text Image",
+            "authors": [
+                "- Huen Chen"
+            ]
+        },
+        {
+            "originalFileName": "0249.pdf",
+            "title": "Dense Text Visual Question Answering: Exploring the Capabilities of Large Multimodal Models on Dense Text",
+            "authors": [
+                "Shuo Zhang",
+                "Biao Yang",
+                "Zhang Li",
+                "Zhiyin Ma",
+                "Yuliang Liu"
+            ]
+        },
+        {
+            "originalFileName": "0172.pdf",
+            "title": "KuiSCIMA: A Dataset for Optical Music Recognition of Ancient Chinese Suzipu Notation",
+            "authors": [
+                "Tristan Repolusk",
+                "Eduardo Veas"
+            ]
+        },
+        {
+            "originalFileName": "0082.pdf",
+            "title": "Visual-based Table Recognition and Question Answering Dataset",
+            "authors": [
+                "Hui Shi",
+                "Yusheng Xie",
+                "Luis Goncalves",
+                "Sicun Gao",
+                "Jishen Zhao"
+            ]
+        },
+        {
+            "originalFileName": "0185.pdf",
+            "title": "CHIC: Corporate Document for Visual Question Answering",
+            "authors": [
+                "Ibrahim Souleiman Mahamoud",
+                "Micka\u00ebl Coustaty",
+                "Aur\u00e9lie Joseph",
+                "Vincent Poulain d\u2019Andecy",
+                "and Jean-Marc Ogier"
+            ]
+        },
+        {
+            "originalFileName": "0243.pdf",
+            "title": "Indic Scene Text on the Roadside",
+            "authors": [
+                "Ajoy Mondal",
+                "Krishna Tulsyan",
+                "C V Jawahar"
+            ]
+        },
+        {
+            "originalFileName": "0144.pdf",
+            "title": "CATMuS Medieval: A multilingual large-scale cross-century dataset in Latin script for handwritten text recognition and beyond",
+            "authors": [
+                "[\"Thibault Cl\u00e9rice\"",
+                "\"Ariane Pinche\"",
+                "\"Malamatenia Vlachou-Efstathiou\"",
+                "\"Alix Chagu\u00e9\"",
+                "\"Jean-Baptiste Camps\"",
+                "\"Matthias Gille Levenson\"",
+                "\"Olivier Brisville-Fertin\"",
+                "\"Federico Boschetti\"",
+                "\"Franz Fischer\"",
+                "\"Michael Gervers\"",
+                "\"Agn\u00e8s Boutreux\"",
+                "\"Avery Manton\"",
+                "\"Simon Gabay\"",
+                "\"Patricia O\u2019Connor\"",
+                "\"Wouter Haverals\"",
+                "\"Mike Kestemont\"",
+                "\"Caroline Vandyck\"",
+                "\"Benjamin Kiessling\"]"
+            ]
+        },
+        {
+            "originalFileName": "0275.pdf",
+            "title": "Practical End-to-End Optical Music Recognition for Pianoform Music",
+            "authors": [
+                "['Mayer'",
+                "'Milan Straka'",
+                "'Haji\u02c7 c jr.'",
+                "'Pavel Pecina']"
+            ]
+        }
+    ],
+    "layoutUnderstanding": [
+        {
+            "originalFileName": "0257.pdf",
+            "title": "Embedding Layout in Text for Document Understanding Using Large Language Models",
+            "authors": [
+                "Mohammad Minouei",
+                "Mohammad Reza Soheili",
+                "Didier Stricker"
+            ]
+        },
+        {
+            "originalFileName": "0084.pdf",
+            "title": "Privacy-Aware Document Visual Question Answering for Invoice Processing",
+            "authors": [
+                "Tito\u22c61",
+                "Khanh Nguyen\u22c61",
+                "Marlon Tobaben\u22c62",
+                "Raouf Kerkouche3",
+                "Mohamed Ali Souibgui1",
+                "Kangsoo Jung4",
+                "Joonas J\u00a8 alk\u00a8 o2",
+                "Vincent Poulain D\u2019Andecy5",
+                "Aurelie Joseph5",
+                "Lei Kang1",
+                "Ernest Valveny1",
+                "Antti Honkela2",
+                "Mario Fritz3",
+                "and Dimosthenis Karatzas1"
+            ]
+        },
+        {
+            "originalFileName": "0044.pdf",
+            "title": "Document Layout Analysis (DLA)",
+            "authors": [
+                "Jiawei Wang",
+                "Kai Hu",
+                "Qiang Huo"
+            ]
+        },
+        {
+            "originalFileName": "0205.pdf",
+            "title": "Layout-Aware Prompting for Documents",
+            "authors": [
+                "- Marcel Lamott"
+            ]
+        },
+        {
+            "originalFileName": "0210.pdf",
+            "title": "A LayoutLMv3-Based Model for Enhanced Relation Extraction in Visually-Rich Documents",
+            "authors": [
+                "Wiam Adnan",
+                "Joel Tang",
+                "Yassine Bel Khayat Zouggari",
+                "Seif Edinne Laatiri",
+                "Laurent Lam",
+                "and Fabien Caspani"
+            ]
+        },
+        {
+            "originalFileName": "0316.pdf",
+            "title": "Federated Document Visual Question Answering: A Pilot Study",
+            "authors": [
+                "- Khanh Nguyen"
+            ]
+        },
+        {
+            "originalFileName": "0323.pdf",
+            "title": "Clustering Running Titles to Understand the Printing of Early Modern Books",
+            "authors": [
+                "Nikolai Vogler",
+                "Kartik Goyal",
+                "Samuel V. Lemley",
+                "D.J. Schuldt",
+                "Max G\u2019Sell",
+                "Taylor Berg-Kirkpatrick"
+            ]
+        },
+        {
+            "originalFileName": "0107.pdf",
+            "title": "Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism",
+            "authors": [
+                "Lei Kang",
+                "Rub`en Tito",
+                "Ernest Valveny",
+                "and Dimosthenis Karatzas"
+            ]
+        },
+        {
+            "originalFileName": "0296.pdf",
+            "title": "GraphKD: Exploring Knowledge Distillation Towards Document Object Detection with Structured Graph Creation",
+            "authors": [
+                "- Ayan Banerjee"
+            ]
+        },
+        {
+            "originalFileName": "0168.pdf",
+            "title": "A Groundbreaking, Fully Automated System for Virtual Unfolding/Unrolling of Historical Documents",
+            "authors": [
+                "- Petr Kulagin"
+            ]
+        },
+        {
+            "originalFileName": "0218.pdf",
+            "title": "Ultra-Lightweight Approach for Machine Readable Zone Detection via Semantic Segmentation and Fast Hough Transform",
+            "authors": [
+                "- Daria Ershova"
+            ]
+        },
+        {
+            "originalFileName": "0074.pdf",
+            "title": "One-shot Transformer-based Framework for Visually-Rich Document Understanding",
+            "authors": [
+                "- Huynh Vu The1[0000 \u22120002\u22128980\u2212283X]B"
+            ]
+        },
+        {
+            "originalFileName": "0284.pdf",
+            "title": "Callico: a Versatile Open-Source Document Image Annotation Platform",
+            "authors": [
+                "- Christopher Kermorvant"
+            ]
+        },
+        {
+            "originalFileName": "0080.pdf",
+            "title": "Typographic Text Generation with Off-the-Shelf Diffusion Model",
+            "authors": [
+                "KhayT ze Peong",
+                "Seiichi Uchida",
+                "Daichi Haraguchi"
+            ]
+        },
+        {
+            "originalFileName": "0034.pdf",
+            "title": "Mining and Analyzing Statistical Information from Untranscribed Form Images",
+            "authors": [
+                "[\"Jos\u00b4e Andr\u00b4es\"",
+                "\"Alejandro H. Toselli\"",
+                "\"Enrique Vidal\"]"
+            ]
+        },
+        {
+            "originalFileName": "0019.pdf",
+            "title": "Light-Weight Multi-Modality Feature Fusion Network for Visually-Rich Document Understanding",
+            "authors": [
+                "- Jeff Yang"
+            ]
+        },
+        {
+            "originalFileName": "0257.pdf",
+            "title": "Embedding Layout in for Document Understanding Using Large Language Models",
+            "authors": [
+                "- Mohammad Minouei"
+            ]
+        },
+        {
+            "originalFileName": "0083.pdf",
+            "title": "Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts",
+            "authors": [
+                "- Yugo Kubota"
+            ]
+        },
+        {
+            "originalFileName": "0104.pdf",
+            "title": "Doc-DINO: A Transformer Model for Complex Logical Document Layout Analysis",
+            "authors": [
+                "[\"Qilin Deng\"",
+                "\"Mayire Ibrayim\"",
+                "\"Askar Hamdulla\"",
+                "\"Hailong Luo\"",
+                "\"Chunhu Zhang\"]"
+            ]
+        },
+        {
+            "originalFileName": "0059.pdf",
+            "title": "Graph-based Multi-level Layout Language-independent Model for Document Understanding",
+            "authors": [
+                "- He-Sen Dai"
+            ]
+        },
+        {
+            "originalFileName": "0007.pdf",
+            "title": "Binarizing Documents by Leveraging both Space and Frequency",
+            "authors": [
+                "- Fabio Quattrini"
+            ]
+        },
+        {
+            "originalFileName": "0054.pdf",
+            "title": "A region-based approach for layout analysis of music score images in scarce data scenarios",
+            "authors": [
+                "[\"Francisco J. Castellanos\"",
+                "\"Juan P. Martinez-Esteso\"",
+                "\"Alejandro Gal\u00e1n-Cuenca\"",
+                "\"Antonio Javier Gallego\"]"
+            ]
+        },
+        {
+            "originalFileName": "0216.pdf",
+            "title": "Document Image Registration for Dewarping",
+            "authors": [
+                "- Weiguang Zhang"
+            ]
+        },
+        {
+            "originalFileName": "0232.pdf",
+            "title": "Text Enhancement for Historical Handwritten Documents",
+            "authors": [
+                "['Reem Alaasam'",
+                "'Boraq Madi'",
+                "'Jihad El-Sana']"
+            ]
+        },
+        {
+            "originalFileName": "0043.pdf",
+            "title": "Dynamic Relation Transformer for Contextual Text Block Detection",
+            "authors": [
+                "- Jiawei Wang"
+            ]
+        },
+        {
+            "originalFileName": "0055.pdf",
+            "title": "End to End Table Transformer",
+            "authors": [
+                "[Yun Young Choi",
+                "Taehoon Kim",
+                "Namwook Kim",
+                "Taehee Lee",
+                "Seongho Joe]"
+            ]
+        },
+        {
+            "originalFileName": "0050.pdf",
+            "title": "GDP: Generic Document Pretraining to Improve Document Understanding",
+            "authors": [
+                "[\"Akkshita Trivedi\"",
+                "\"Akarsh Upadhyay\"",
+                "\"Rudrabha Mukhopadhyay\"",
+                "\"Santanu Chaudhury\"]"
+            ]
+        },
+        {
+            "originalFileName": "0213.pdf",
+            "title": "Latent Diffusion for Guided Document Table Generation",
+            "authors": [
+                "- Syed Jawwad Haider Hamdani"
+            ]
+        },
+        {
+            "originalFileName": "0166.pdf",
+            "title": "Text Line Segmentation on Ancient Egyptian Papyri: Layout Analysis with Object Detection Networks and Connected Components",
+            "authors": [
+                "Stephan M. Unter"
+            ]
+        },
+        {
+            "originalFileName": "0037.pdf",
+            "title": "Drawing the Line: Deep Segmentation for Extracting Art from Ancient Etruscan Mirrors",
+            "authors": [
+                "- Rafael Sterzinger"
+            ]
+        },
+        {
+            "originalFileName": "0289.pdf",
+            "title": "GeoContrastNet : Contrastive Key-Value Edge Learning for Language-Agnostic Document Understanding",
+            "authors": [
+                "- Nil Biescas"
+            ]
+        },
+        {
+            "originalFileName": "0145.pdf",
+            "title": "Document Specular Highlight Removal with Coarse-to-fine Strategy",
+            "authors": [
+                "- Xin Yang"
+            ]
+        },
+        {
+            "originalFileName": "C02.pdf",
+            "title": "Layout Analysis of Ancient Manuscripts: A Few-Shot and Many-Shot Approach",
+            "authors": [
+                "- Silvia Zottin"
+            ]
+        },
+        {
+            "originalFileName": "0318.pdf",
+            "title": "Are Layout Analysis and OCR Still Useful for Document Information Extraction using Foundation Models?",
+            "authors": [
+                "Anna Scius-Bertrand",
+                "Atefeh Fakhari",
+                "Lars V\u00a8 ogtlin",
+                "Daniel Ribeiro Cabral",
+                "and Andreas Fischer"
+            ]
+        },
+        {
+            "originalFileName": "0025.pdf",
+            "title": "Hybrid Approach for Document Layout Analysis in Document images",
+            "authors": [
+                "[\"Tahira Shehzadi\"",
+                "\"Didier Stricker\"",
+                "\"Muhammad Zeshan Afzal\"]"
+            ]
+        }
+    ],
+    "others": [
+        {
+            "originalFileName": "0239.pdf",
+            "title": "ChartReformer: Natural Language-Driven Chart Image Editing Authors: Pengyu Yan, Mahesh Bhosale, Jay Lal, Bikhyat Adhikari, David Doermann Category: Datasets and Key Information Extraction",
+            "authors": [
+                "Pengyu Yan",
+                "Mahesh Bhosale",
+                "Jay Lal",
+                "Bikhyat Adhikari",
+                "David Doermann Category: Datasets and Key Information Extraction"
+            ]
+        },
+        {
+            "originalFileName": "0221.pdf",
+            "title": "Title not found",
+            "authors": []
+        },
+        {
+            "originalFileName": "C07.pdf",
+            "title": "ICDAR 2024 Competition on Recognition of Chemical Structures",
+            "authors": [
+                "Mingjun Chen",
+                "Hao Wu",
+                "Qikai Chang",
+                "Hanbo Cheng",
+                "Jiefeng Ma",
+                "Pengfei Hu",
+                "Zhenrong Zhang",
+                "Chenyu Liu",
+                "Changpeng Pi",
+                "Jinshui Hu",
+                "Baocai Yin",
+                "Bing Yin",
+                "Cong Liu",
+                "Jun Du"
+            ]
+        },
+        {
+            "originalFileName": "0271.pdf",
+            "title": "Recognition of Components in Taoist Charm Images",
+            "authors": [
+                "- Ting-Wei LIAO"
+            ]
+        },
+        {
+            "originalFileName": "C04.pdf",
+            "title": "Handwritten Text Recognition in Brazilian Essays \u2013 BRESSAY",
+            "authors": [
+                "[\"Arthur F. S. Neto\"",
+                "\"Byron L. D. Bezerra\"",
+                "\"S\u00b4 avio S. Ara\u00b4 ujo\"",
+                "\"Wiliane M. A. S. Souza\"",
+                "\"Kl\u00b4 eberson F. Alves\"",
+                "\"Macileide F. Oliveira\"",
+                "\"Samara V. S. Lins\"",
+                "\"Hugo J. F. Hazin\"",
+                "\"Pedro H. V. Rocha\"",
+                "\"Alejandro H. Toselli\"]"
+            ]
+        },
+        {
+            "originalFileName": "0077.pdf",
+            "title": "Progressive Evolution from Single-Point to Polygon for Scene Text",
+            "authors": [
+                "Linger Deng",
+                "Mingxin Huang",
+                "Xudong Xie",
+                "Yuliang Liu",
+                "Lianwen Jin",
+                "Xiang Bai"
+            ]
+        },
+        {
+            "originalFileName": "0133.pdf",
+            "title": "Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition",
+            "authors": [
+                "- Yangyang Liu"
+            ]
+        },
+        {
+            "originalFileName": "C05.pdf",
+            "title": "ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking",
+            "authors": [
+                "[\"Zekun Li\"",
+                "\"Yijun Lin\"",
+                "\"Yao-Yi Chiang\"",
+                "\"Jerod Weinman\"",
+                "\"Solenn Tual\"",
+                "\"Joseph Chazalon\"",
+                "\"Julien Perret\"",
+                "\"Bertrand Dum\u00b4 enieu\"",
+                "\"Nathalie Abadie\"]"
+            ]
+        },
+        {
+            "originalFileName": "0156.pdf",
+            "title": "GARDEN: Generative Prior Guided Network for Scene Text Image Super-Resolution",
+            "authors": [
+                "- Yuxin Kong"
+            ]
+        },
+        {
+            "originalFileName": "C09.pdf",
+            "title": "Recognition and Visual Question Answer on Handwritten Documents towards deeper understanding of handwritten multilingual documents (ICDAR 2024-HWD)",
+            "authors": [
+                "Ajoy Mondal1",
+                "Vijay Mahadevan2",
+                "R. Manmatha2",
+                "and C. V. Jawahar1"
+            ]
+        },
+        {
+            "originalFileName": "0148.pdf",
+            "title": "Radical Similarity Based Model Optimization and Post-correction for Chinese Character Recognition",
+            "authors": [
+                "- Zhongyuan Han"
+            ]
+        },
+        {
+            "originalFileName": "0143.pdf",
+            "title": "Adaptive Scaling and Refined Pyramid Feature Fusion Network for Scene Text Segmentation",
+            "authors": [
+                "- Tian-Zuo Li"
+            ]
+        },
+        {
+            "originalFileName": "0187.pdf",
+            "title": "Basic Text Analytics from Untranscribed Manuscript Images",
+            "authors": [
+                "- Enrique Vidal"
+            ]
+        },
+        {
+            "originalFileName": "0075.pdf",
+            "title": "Conditional Clue Extraction for Multiple Choice Question Answering",
+            "authors": [
+                "Wangli Yang",
+                "Jie Yang",
+                "Wanqing Li",
+                "and Yi Guo"
+            ]
+        },
+        {
+            "originalFileName": "0102.pdf",
+            "title": "Improving Efficiency and Performance through CTC-based Transformers for Mathematical Expression Recognition",
+            "authors": [
+                "- Dan Anitei"
+            ]
+        },
+        {
+            "originalFileName": "0095.pdf",
+            "title": "ClusterTabNet: Supervised clustering method for table detection and table structure recognition",
+            "authors": [
+                "[Marek Polewczyk",
+                "Marco Spinaci]"
+            ]
+        },
+        {
+            "originalFileName": "0178.pdf",
+            "title": "A New Bottom-up Path Augmentation Attention Network for Script Identification in Scene Images",
+            "authors": [
+                "- Zhi Pan"
+            ]
+        },
+        {
+            "originalFileName": "C01.pdf",
+            "title": "ICDAR 2024 Competition on Artistic Text Recognition",
+            "authors": [
+                "Xudong Xie",
+                "Linger Deng",
+                "Zhifei Zhang",
+                "Zhaowen Wang",
+                "Yuliang Liu"
+            ]
+        },
+        {
+            "originalFileName": "0176.pdf",
+            "title": "Deciphering Ancient Chinese Characters with Radical Reconstruction",
+            "authors": [
+                "Pengjie Wang",
+                "Kaile Zhang",
+                "Xinyu Wang",
+                "Shengwei Han",
+                "Yongge Liu",
+                "Lianwen Jin",
+                "Xiang Bai",
+                "Yuliang Liu"
+            ]
+        },
+        {
+            "originalFileName": "0169.pdf",
+            "title": "Stroke-Level Graph Labeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition",
+            "authors": [
+                "- Yejing Xie"
+            ]
+        },
+        {
+            "originalFileName": "0190.pdf",
+            "title": "Knowledge Mining of Scene Text for Referring Expression Comprehension",
+            "authors": [
+                "[\"Chenyang Gao\"",
+                "\"Biao Yang\"",
+                "\"Wenwen Yu\"",
+                "\"Yuliang Liu\"",
+                "\"Xiang Bai\"]"
+            ]
+        },
+        {
+            "originalFileName": "0022.pdf",
+            "title": "Coordinate-Aware End-to-End Document Parser",
+            "authors": [
+                "- Yamato Okamoto"
+            ]
+        },
+        {
+            "originalFileName": "0089.pdf",
+            "title": "Text Semantic Segmentation Based on Global Semantic Pair Relations",
+            "authors": [
+                "- Wenjun Sun"
+            ]
+        },
+        {
+            "originalFileName": "0211.pdf",
+            "title": "Counting the Corner Cases: Revisiting Robust Reading Challenge Data Sets, Evaluation Protocols, and Metrics",
+            "authors": [
+                "Jerod Weinman",
+                "Amelia G\u00f3mez Grabowska",
+                "Dimosthenis Karatzas"
+            ]
+        },
+        {
+            "originalFileName": "0237.pdf",
+            "title": "Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator",
+            "authors": [
+                "- Xinhong Chen"
+            ]
+        },
+        {
+            "originalFileName": "0042.pdf",
+            "title": "Towards Better Scene Text Spotting with Language Modeling in Transformer",
+            "authors": [
+                "[\"Xin Xia\"",
+                "\"Guodong Ding\"",
+                "\"Siyuan Li\"]"
+            ]
+        },
+        {
+            "originalFileName": "0103.pdf",
+            "title": "Enhancing Recognition of Historical Musical Pieces with Synthetic and Composed images",
+            "authors": [
+                "[\"Manuel Villarreal\"",
+                "\"Joan Andreu S\u00b4anchez\"]"
+            ]
+        },
+        {
+            "originalFileName": "0058.pdf",
+            "title": "Analysis of the Calibration of Handwriting Text Recognition Models",
+            "authors": [
+                "- Eric Ayllon"
+            ]
+        },
+        {
+            "originalFileName": "0191.pdf",
+            "title": "Script Identification in the Wild with FFT-Multi-Grained Mix Attention T ransformer",
+            "authors": [
+                "- Zhi Pan"
+            ]
+        },
+        {
+            "originalFileName": "0260.pdf",
+            "title": "YOLO Assisted A* Algorithm for Robust Line Segmentation of Degraded Document Images",
+            "authors": [
+                "- Ahana Kundu[0000 \u22120002\u22122150\u22127359]"
+            ]
+        },
+        {
+            "originalFileName": "0030.pdf",
+            "title": "Visual Prompt Learning for Chinese Handwriting Recognition",
+            "authors": [
+                "- Gang Yao"
+            ]
+        },
+        {
+            "originalFileName": "0273.pdf",
+            "title": "SketchGPT : Autoregressive Modeling for Sketch Generation and Recognition",
+            "authors": [
+                "- Adarsh Tiwari"
+            ]
+        },
+        {
+            "originalFileName": "0270.pdf",
+            "title": "Self-training and Active Learning with Pseudo-Relevance Feedback for Handwriting Detection in Historical Print",
+            "authors": [
+                "- Jacob Murel"
+            ]
+        },
+        {
+            "originalFileName": "0108.pdf",
+            "title": "Integrating Dependency Type and Directionality into Adapted Graph Attention Networks to Enhance Relation Extraction",
+            "authors": [
+                "- Yiran Zhao"
+            ]
+        },
+        {
+            "originalFileName": "0086.pdf",
+            "title": "Handwritten Document Recognition Using Pre-trained Vision Transformers",
+            "authors": [
+                "- Daniel Parres"
+            ]
+        },
+        {
+            "originalFileName": "0238.pdf",
+            "title": "Synergistic Diverse Perspective for Topic Evolution Analysis on Weibo",
+            "authors": [
+                "- Tong Zhang1,2,3[0009\u22120001\u22129321\u22123835]"
+            ]
+        },
+        {
+            "originalFileName": "0255.pdf",
+            "title": "Cross-Domain Image Conversion by CycleDM",
+            "authors": [
+                "Sho Shimotsumagari",
+                "Shumpei Takezaki",
+                "Daichi Haraguchi",
+                "Seiichi Uchida"
+            ]
+        },
+        {
+            "originalFileName": "0229.pdf",
+            "title": "Class Incremental Learning for Character String Recognition",
+            "authors": [
+                "- Yijie Hu"
+            ]
+        },
+        {
+            "originalFileName": "0245.pdf",
+            "title": "Multimodal Summarization in Diverse Indian Languages",
+            "authors": [
+                "- Raghvendra Kumar"
+            ]
+        },
+        {
+            "originalFileName": "0140.pdf",
+            "title": "Font Style Interpolation with Diffusion Models",
+            "authors": [
+                "Tetta Kondo",
+                "Shumpei Takezaki",
+                "Daichi Haraguchi",
+                "Seiichi Uchida"
+            ]
+        },
+        {
+            "originalFileName": "0291.pdf",
+            "title": "Enhancing CRNN HTR Architectures with Transformer Blocks",
+            "authors": [
+                "- George Retsinas"
+            ]
+        },
+        {
+            "originalFileName": "C03.pdf",
+            "title": "Handwriting Recognition of Historical Ciphers",
+            "authors": [
+                "- Alicia Forn\u00e9s"
+            ]
+        },
+        {
+            "originalFileName": "0016.pdf",
+            "title": "A Real-Time Scene Uyghur Text Detection Network Based on Feature Complementation",
+            "authors": [
+                "[Mayire Ibrayim",
+                "Mengmeng Chen",
+                "Askar Hamdulla",
+                "Jianjun Kang",
+                "Chunhu Zhang]"
+            ]
+        },
+        {
+            "originalFileName": "0069.pdf",
+            "title": "Multi-Orientation Sharing Experts for Open-set Scene Text Recognition",
+            "authors": [
+                "Chang Liu",
+                "Simon Corbill\u00b4 e",
+                "and Elisa H Barney Smith"
+            ]
+        },
+        {
+            "originalFileName": "0049.pdf",
+            "title": "Synthesizing Realistic Data for Table Recognition",
+            "authors": [
+                "- Qiyu Hou"
+            ]
+        },
+        {
+            "originalFileName": "0136.pdf",
+            "title": "Oracle Bone Inscriptions Image Retrieval Based on Metric Learning",
+            "authors": [
+                "[\"Jun Ding\"",
+                "\"Jiaoyan Wang\"",
+                "\"Alimjan Aysa\"",
+                "\"Xuebin Xu\"",
+                "\"Kurban Ubul\"]"
+            ]
+        },
+        {
+            "originalFileName": "C08.pdf",
+            "title": "Reading Documents Through Aria Glasses",
+            "authors": [
+                "Soumya Shamarao Jahagirdar",
+                "Ajoy Mondal",
+                "Yuheng (Carl) Ren",
+                "Omkar M Parkhi",
+                "and C. V. Jawahar"
+            ]
+        },
+        {
+            "originalFileName": "0051.pdf",
+            "title": "Source-Free Domain Adaptation for Optical Music Recognition",
+            "authors": [
+                "[\"Adri\u00e1n Rosell\u00f3\"",
+                "\"Eliseo Fuentes-Mart\u00ednez\"",
+                "\"Mar\u00eda Alfaro-Contreras\"",
+                "\"David Rizo\"",
+                "\"Jorge Calvo-Zaragoza\"]"
+            ]
+        },
+        {
+            "originalFileName": "0165.pdf",
+            "title": "SPRINT: Script-agnostic Structure Recognition in Tables",
+            "authors": [
+                "- Dhruv Kudale"
+            ]
+        },
+        {
+            "originalFileName": "0122.pdf",
+            "title": "Recognition and Link Prediction of Onomatopoeia Texts with Arbitrary Shapes",
+            "authors": [
+                "- Jingtao Ma"
+            ]
+        },
+        {
+            "originalFileName": "0162.pdf",
+            "title": "Content -based Similarity for Automatic Scoring of Handwritten Descriptive Answers",
+            "authors": [
+                "Nghia Thanh Truong",
+                "Hung Tuan Nguyen",
+                "Nam Tuan Ly",
+                "Toshihiko Horie",
+                "Masaki Nakagawa"
+            ]
+        },
+        {
+            "originalFileName": "0013.pdf",
+            "title": "Revisiting N-Gram Models: Their Impact in Modern Neural Networks for Handwritten Text Recognition",
+            "authors": [
+                "- Sol` ene Tarride[0000\u22120001\u22126174\u22129865]"
+            ]
+        },
+        {
+            "originalFileName": "0239.pdf",
+            "title": "ChartReformer: Natural Language-Driven Chart Image Editing",
+            "authors": [
+                "Pengyu Yan",
+                "Mahesh Bhosale",
+                "Jay Lal",
+                "Bikhyat Adhikari",
+                "and David Doermann"
+            ]
+        },
+        {
+            "originalFileName": "0113.pdf",
+            "title": "Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription",
+            "authors": [
+                "- Antonio R\u00b4 \u0131os-Vila"
+            ]
+        },
+        {
+            "originalFileName": "0134.pdf",
+            "title": "\"Extractive Question Answering with Contrastive Puzzles and Reweighted Clues\u22c6\"",
+            "authors": [
+                "[\"Chao Liu\"",
+                "\"Jie Yang\"",
+                "\"Wanqing Li\"]"
+            ]
+        },
+        {
+            "originalFileName": "0027.pdf",
+            "title": "End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer",
+            "authors": [
+                "- Tahira Shehzadi*1,2,3"
+            ]
+        },
+        {
+            "originalFileName": "0123.pdf",
+            "title": "A New Unsupervised Approach for Text Localization in Shaky and Non -Shaky Scene Video",
+            "authors": [
+                "- Arnab Halder"
+            ]
+        },
+        {
+            "originalFileName": "0119.pdf",
+            "title": "Implicit Character-Aided Learning for Enhanced Handwritten Mathematical Expression Recognition",
+            "authors": [
+                "- Jianhua Zhu"
+            ]
+        },
+        {
+            "originalFileName": "0031.pdf",
+            "title": "Geometric-aware Control in Diffusion Model for Handwritten Chinese Font Generation",
+            "authors": [
+                "- Gang Yao"
+            ]
+        },
+        {
+            "originalFileName": "0038.pdf",
+            "title": "Self-supervised Pre-training of Text Recognizers",
+            "authors": [
+                "Martin Ki\u02c7 s\u02c7 s",
+                "Michal Hradi\u02c7 s"
+            ]
+        },
+        {
+            "originalFileName": "0199.pdf",
+            "title": "LABT: A Sequence-to-Sequence Model for Mongolian Handwritten Text Recognition with Local Aggregation BiLSTM and Transformer",
+            "authors": [
+                "- Yu Li"
+            ]
+        },
+        {
+            "originalFileName": "0160.pdf",
+            "title": "DocTabQA: Answering Questions from Long Documents Using Tables",
+            "authors": [
+                "Haochen Wang",
+                "Kai Hu",
+                "Haoyu Dong",
+                "and Liangcai Gao"
+            ]
+        },
+        {
+            "originalFileName": "0221.pdf",
+            "title": "Self-Supervised Vision Transformers for Writer Retrieval",
+            "authors": [
+                "[Tim Raven",
+                "Arthur Matei",
+                "Gernot A. Fink]"
+            ]
+        },
+        {
+            "originalFileName": "C07.pdf",
+            "title": "Recognition of Handwritten Chemical Structures",
+            "authors": [
+                "- Mingjun Chen"
+            ]
+        },
+        {
+            "originalFileName": "0081.pdf",
+            "title": "Multi-task Learning for License Plate Recognition in Unconstrained Scenarios",
+            "authors": [
+                "- Zhen-Lun Mo"
+            ]
+        },
+        {
+            "originalFileName": "0202.pdf",
+            "title": "PCA-Based Adversarial Attacks on Signature Verification Systems",
+            "authors": [
+                "- Maham Jahangir"
+            ]
+        },
+        {
+            "originalFileName": "0004.pdf",
+            "title": "SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval",
+            "authors": [
+                "Marco Peer",
+                "Florian Kleber",
+                "Robert Sablatnig"
+            ]
+        },
+        {
+            "originalFileName": "0020.pdf",
+            "title": "Improving Automatic Text Recognition with Language Models in the PyLaia Open-Source Library",
+            "authors": [
+                "- Sol` ene Tarride"
+            ]
+        },
+        {
+            "originalFileName": "C06.pdf",
+            "title": "ICDAR 2024 Competition on Multi Font Group Recognition and OCR",
+            "authors": [
+                "- Janne van der Loop"
+            ]
+        },
+        {
+            "originalFileName": "0092.pdf",
+            "title": "More and Less: Enhancing Abundance and Refining Redundancy for Text-Prior-Guided Scene Text Image Super-Resolution",
+            "authors": [
+                "- Wei Yang1,2"
+            ]
+        },
+        {
+            "originalFileName": "0060.pdf",
+            "title": "Multi-Cell Decoder and Mutual Learning for Table Structure and Character Recognition",
+            "authors": [
+                "[Takaya Kawakatsu]"
+            ]
+        }
+    ]
+}
