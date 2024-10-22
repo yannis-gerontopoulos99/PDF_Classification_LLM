@@ -32,7 +32,7 @@ Script Flow
         The text chunks are embedded using the HuggingFaceEmbeddings model from the Hugging Face Hub, allowing for vector-based retrieval.
 
 5)    LLM-Based Question Answering:
-        The script uses a pretrained Hugging Face model (Hermes-3-Llama-3.1-8B) to process and extract the title, authors, and categorize the content.
+        The script uses a pretrained Hugging Face model (Mistral-7B-Instruct-v0.3) to process and extract the title, authors, and categorize the content.
         This process is done by prompting the model with specific instructions to extract and categorize information.
 
 6)    Result Extraction:
