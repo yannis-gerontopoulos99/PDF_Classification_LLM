@@ -1,4 +1,4 @@
-# YannisGerontopoulos_MLE_Assignment
+# PDF_Classification_LLM
 
 PDF Classification and Information Extraction
 Description:
