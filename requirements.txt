@@ -4,7 +4,7 @@ langchain == 0.3.3
 langchain-community == 0.3.2 
 langchain-huggingface == 0.1.0
 langchain-text-splitters == 0.3.0
-torch == 2.6.0
+torch == 2.7.1
 faiss-cpu == 1.9.0
 json == 2.0.9
 re == 2.2.1
