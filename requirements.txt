@@ -1,7 +1,7 @@
 flash-attention == 1.0.0
 pypdf == 6.0.0
 langchain == 0.3.3 
-langchain-community == 0.3.2 
+langchain-community == 0.3.27 
 langchain-huggingface == 0.1.0
 langchain-text-splitters == 0.3.0
 torch
